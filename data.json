@@ -1,0 +1,7 @@
+[
+{ "tid" : "id_1509463951313", "creationtime" :  "1509463951313", "messages" : [{ "id" : "msg1", "timestamp" :  "1509463951315" , "access" :  "1509463951315" , "balance" : 1569, "address" : "address. 1" }] },
+{ "tid" : "id_1509463951329", "creationtime" :  "1509463951329", "messages" : [{ "id" : "msg1", "timestamp" :  "1509463951329" , "access" :  "1509463951329" , "balance" : 983013, "address" : "address. 1" }] },
+{ "tid" : "id_1509463951331", "creationtime" :  "1509463951331", "messages" : [{ "id" : "msg1", "timestamp" :  "1509463951331" , "access" :  "1509463951331" , "balance" : 641461, "address" : "address. 1" }, { "id" : "msg2", "timestamp" : "1509463951331" , "access"  : "1509463951331" , "balance" : 542160, "vip" : false }] },
+{ "tid" : "id_1509463951332", "creationtime" :  "1509463951332", "messages" : [{ "id" : "msg1", "timestamp" :  "1509463951332" , "access" :  "1509463951332" , "balance" : 820301, "address" : "address. 1" }, { "id" : "msg2", "timestamp" : "1509463951332" , "access"  : "1509463951332" , "balance" : 43245, "vip" : true }] },
+{ "tid" : "id_1509463951334", "creationtime" :  "1509463951334", "messages" : [{ "id" : "msg1", "timestamp" :  "1509463951334" , "access" :  "1509463951334" , "balance" : 329433, "address" : "address. 1" }, { "id" : "msg2", "timestamp" : "1509463951334" , "access"  : "1509463951334" , "balance" : 588029, "vip" : false }] }
+]
